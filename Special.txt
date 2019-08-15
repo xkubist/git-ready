@@ -1,1 +1,3 @@
-Started writing special
+This is my special file
+
+First paragraph, bla bla bla
