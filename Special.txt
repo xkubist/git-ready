@@ -1,3 +1,7 @@
 This is my special file
 
-First paragraph, bla bla bla
+First paragraph, bla bla bla.
+
+Second paragraph, more bla blaaaaa.
+
+Bored? Don't be, there's much more and worse...
